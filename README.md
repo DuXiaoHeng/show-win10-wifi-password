@@ -2,14 +2,14 @@
 
 ### 1.win + R 打开 cmd命令行
 
-![avatar](./src/1.png)
+![avatar](./img/1.png)
 
 ### 2.输入命令: 列出所有链接过的wifi配置名
 
  `netsh wlan show profiles`
- ![avatar](./src/2.png)
+ ![avatar](./img/2.png)
 
 ### 3.输入命令：查看具体wifi配置，包含wifi密码
 
  `netsh wlan show profiles name="wifi配置名" key=clear `
- ![avatar](./src/3.png)
+ ![avatar](./img/3.png)
