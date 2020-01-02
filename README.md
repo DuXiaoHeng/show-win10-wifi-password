@@ -8,7 +8,7 @@
 
  `netsh wlan show profiles`
  ![avatar](./src/2.png)
- 
+
 ### 3.输入命令：查看具体wifi配置，包含wifi密码
 
  `netsh wlan show profiles name="wifi配置名" key=clear `
