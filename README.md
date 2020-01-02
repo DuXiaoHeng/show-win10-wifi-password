@@ -1,8 +1,8 @@
 # win10查看wifi密码
 
 ### 1.win + R 打开 cmd命令行
-<br/>
-![avatar](./img/1.png)
+
+ ![avatar](./img/1.png)
 
 ### 2.输入命令: 列出所有链接过的wifi配置名
 
